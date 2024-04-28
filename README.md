@@ -2,7 +2,7 @@
 
 ## Introduction
 
-These days, we not only have a lot of textual information but also lots of alternative versions of that information. This applies to history, science, the news, etc. The problem is that distorted messages can be hard to identify and could be interpreted as factual information. One potential solution to this problem is using natural language processing techniques to help us distinguish factual from alternative information. To test this approach, we scraped ~2000 r/History and r/AlternativeHistory posts and tried to classify them by Subreddit [1] [2].
+These days, we not only have lots of textual information but also lots of alternative versions of that information. This applies to history, science, the news, etc. The problem is that distorted messages can be hard to identify and could be interpreted as factual information. One potential solution to this problem is using natural language processing techniques to help us distinguish factual from alternative information. To test this approach, we scraped ~2000 r/History and r/AlternativeHistory posts and tried to classify them by Subreddit [1] [2].
 
 ## Summary
 
